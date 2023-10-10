@@ -1,2 +1,5 @@
-# DPSIR
-programs of dp sir at one place
+# PYTHON
+ALL PYTHON PROGRAMS AT ONE PLACE
+
+IF ANY QUERY FEEL FREE TO CONTACT ME
+
